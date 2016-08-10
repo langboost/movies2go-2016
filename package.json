@@ -1,0 +1,16 @@
+{
+	"name": "movies2go-2016",
+	"version": "1.0.0",
+	"description": "An expressjs based site for file sharing over ad-hoc wifi.",
+	"author": "Jeff R",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "4.12.4",
+		"serve-index": "1.6.4",
+		"serve-static": "1.9.3",
+		"jade": "1.10.0"
+	},
+	"private": true
+}
